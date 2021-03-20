@@ -1,0 +1,11 @@
+Homework 1 Readme file
+
+Before running:
+  desired corpus to analyze must be in the same directory as homework1.py
+
+To analyze corpus file:
+  `python3 homework1.py <input_file_name> [<output_file_name>]`
+
+Once run, output will be printed to the output file in the directory (defaults
+to 'dates.txt').
+Each date occurrence will occupy a separate line.
